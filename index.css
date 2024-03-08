@@ -111,7 +111,7 @@ body{
 
 @media (min-width:1200px){
     .container{
-        width: 70vw;
+        width: 1200px;
         height: 800px;
         display: inline-block;
     }
